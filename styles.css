@@ -1,0 +1,25 @@
+ body{
+     background-image:url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/iPqZZmF/twinkling-stars-abstract-background-monochromatic-realistic_enk7mlb8e__F0000.png);
+     text-align:center;
+     font-style:oblique;
+ }
+ .movie{
+     color:white;
+     font-family:cursive;
+ }
+ .artist{
+     color:yellow;
+     font-family:arial;
+     
+ }
+ .actor{
+     color:blue;
+     font-family:georgia;
+ }
+ .athlete{
+     color:green;
+     font-family:verdana;
+ }
+ .pic{
+     width:400px;
+ }
